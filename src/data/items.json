@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Book",
-    "price": 10.99,
+    "price": 15.99,
     "imgUrl": "/imgs/book.jpg"
   },
   {
@@ -21,6 +21,12 @@
     "id": 4,
     "name": "Car",
     "price": 14999,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "House",
+    "price": 259999,
     "imgUrl": "/imgs/car.jpg"
   }
 ]
