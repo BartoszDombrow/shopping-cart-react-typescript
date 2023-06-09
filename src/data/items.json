@@ -8,19 +8,19 @@
   {
     "id": 2,
     "name": "Computer",
-    "price": 1199,
+    "price": 1299,
     "imgUrl": "/imgs/computer.jpg"
   },
   {
     "id": 3,
     "name": "Banana",
-    "price": 1.05,
+    "price": 1.25,
     "imgUrl": "/imgs/banana.jpg"
   },
   {
     "id": 4,
     "name": "Car",
-    "price": 14000,
+    "price": 14999,
     "imgUrl": "/imgs/car.jpg"
   }
 ]
